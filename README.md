@@ -1,29 +1,28 @@
-<h1 style="display: flex; justify-content: center;">Olá Visitante</h1>
+<h1 style="display: flex; justify-content: center;">Olá Visitante :)</h1>
 
-<section style="">
-    <h2 style="text-decoration: none; font-weight: 1000;">Sobre</h2>
-</section>
-<ul>
-    <li>Estudante no <a href="https://www.sp.senai.br/unidade/suicobrasileira/">SENAI Suíço-Brasileira</a></li>
-    <li></li>
-    <li></li>
-</ul>
+<h2>Sobre mim</h2>
+<p>Sou um estudante no curso técnico em desenvolvimento de sistemas no <a href="https://www.sp.senai.br/unidade/suicobrasileira/" target="_blank">SENAI Suíço-Brasileira</a>, atualmente estou focando em desenvolvimento web, aprendendo tecnologias como <img src="./assets/icons/react.svg" alt=""> <img src="./assets/icons/angular.svg" alt=""> no front-end e <img src="./assets/icons/spring.svg" alt=""> no back-end.</p>
 
 <h2>Projetos em destaque</h2>
+<ul>
+    <li>
+        <a href="https://github.com/GoBrazill/pc-spike-smacss" target="_blank">pc-spike-smacss</a>
+    </li>
+    <li>
+        <a href="https://github.com/professor-correa/campus-datacenter-explorer" target="_blank">Datacenter Senai</a>
+    </li>
+</ul>
 
 <h2>Contato</h2>
+<ul>
+    <li>
+        <img src="./assets/icons/linkedin.svg" alt="">
+        <a href="https://www.linkedin.com/in/vinicius-silva-aaa18534b/" target="_blank">Vinicius Silva</a>
+    </li>
+    <li>
+        <img src="./assets/icons/gmail.svg" width="16px" height="16px" alt="">
+        <a href="mailto:vinicius.daraujos26@gmail.com"">vinicius.daraujos26@gmail.com</a>
+    </li>
+</ul>
 
-<!--
-**GoBrazill/gobrazill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoBrazill&layout=compact&hide_border=false&theme=merko"/>
