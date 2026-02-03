@@ -17,7 +17,7 @@
 <ul>
     <li>
         <img src="./assets/icons/linkedin.svg" alt="">
-        <a href="https://www.linkedin.com/in/vinicius-silva-aaa18534b/" target="_blank">Vinicius Silva</a>
+        <a href="https://www.linkedin.com/in/vinicius-a-silva" target="_blank">Vinicius Silva</a>
     </li>
     <li>
         <img src="./assets/icons/gmail.svg" width="16px" height="16px" alt="">
