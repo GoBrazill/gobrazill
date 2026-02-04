@@ -1,4 +1,4 @@
-<h1 style="display: flex; justify-content: center;">Olá Visitante :)</h1>
+<h1 align="center">Olá Visitante :)</h1>
 
 <h2>Sobre mim</h2>
 <p>Sou um estudante no curso técnico em desenvolvimento de sistemas no <a href="https://www.sp.senai.br/unidade/suicobrasileira/" target="_blank">SENAI Suíço-Brasileira</a>,  onde estudo front-end, back-end, banco de dados e IoT. Atualmente estou focando em desenvolvimento web, aprendendo tecnologias como <img src="./assets/icons/react.svg" alt=""> <img src="./assets/icons/angular.svg" alt=""> no front-end e <img src="./assets/icons/spring-boot-logo.svg" alt=""> <img src="./assets/icons/my-sql-logo.svg" alt=""> no back-end.</p>
