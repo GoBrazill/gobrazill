@@ -25,4 +25,4 @@
     </li>
 </ul>
 
-<img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoBrazill&layout=compact&hide_border=false&theme=merko"/>
+<img width="100%" height="200px" src="https://github-readme-stats-fawn-phi.vercel.app/api/top-langs/?username=GoBrazill&layout=compact&hide_border=false&theme=merko"/>
