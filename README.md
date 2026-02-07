@@ -1,4 +1,5 @@
-<h1 align="center">Olá Visitante :)</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=C0D904&center=true&vCenter=true&width=435&lines=Hello+World!" alt="Typing SVG" width="100%" align="center"/></a>
+---
 
 <h2>Sobre mim</h2>
 <p>Sou um estudante no curso técnico em desenvolvimento de sistemas no <a href="https://www.sp.senai.br/unidade/suicobrasileira/" target="_blank">SENAI Suíço-Brasileira</a>,  onde estudo front-end, back-end, banco de dados e IoT. Atualmente estou focando em desenvolvimento web, aprendendo tecnologias como <img src="./assets/icons/react.svg" alt="Ícone de um átomo"> <img src="./assets/icons/angular.svg" alt="Ícone com a letra A formando um escudo"> no front-end e <img src="./assets/icons/spring-boot.svg" alt="Ícone de um botão de ligar/desligar"> <img src="./assets/icons/my-sql.svg" alt="Ícone de um golfinho escrito MySQL ao lado"> no back-end.</p>
