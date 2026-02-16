@@ -22,7 +22,7 @@
     </li>
     <li>
         <img src="./assets/icons/gmail.svg" width="16px" height="16px" alt="Ícone de uma carta formando a letra M">
-        <a href="mailto:vinicius.daraujos26@gmail.com"">vinicius.daraujos26@gmail.com</a>
+        <a href="mailto:vinicius.daraujos26@gmail.com">vinicius.daraujos26@gmail.com</a>
     </li>
 </ul>
 
