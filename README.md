@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=C0D904&center=true&vCenter=true&width=435&lines=Hello+World!" alt="Typing SVG" width="100%" align="center"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=C0D904&center=true&vCenter=true&width=435&lines=Hello+World!" alt="Typing SVG" width="100%" align="center"/></a>
 ---
 
 <h2>Sobre mim</h2>
@@ -7,10 +7,20 @@
 <h2>Projetos em destaque</h2>
 <ul>
     <li>
-        <p><a href="https://github.com/GoBrazill/pc-spike-smacss" target="_blank">pc-spike-smacss</a> - Pesquisa que realizei que envolve o método SMACSS para a organização do css.</p>
+        <p><a href="https://github.com/GoBrazill/pc-spike-smacss">POC Spike SMACSS</a> - Pesquisa que realizei que envolve o método SMACSS para a organização do css.</p>
     </li>
     <li>
-        <p><a href="https://github.com/professor-correa/campus-datacenter-explorer" target="_blank">Datacenter SENAI</a> - Projeto criado em turma que explica os protocolos dos servidores no senai suiço.</p>
+        <p><a href="https://github.com/professor-correa/campus-datacenter-explorer">Datacenter SENAI</a> - Projeto criado em turma que explica os protocolos dos servidores no senai suiço.</p>
+    </li>
+    <li>
+        <p><a href="https://github.com/GoBrazill/project-neofi">Projeto Neofi</a> - Site fictício sobre ser o futuro da conexão, segurança e escalabilidade em tecnologia blockchain.</p>
+    </li>
+    </li>
+    <li>
+        <p><a href="https://github.com/GoBrazill/project-nexcent">Projeto Nexcent</a> - Nexcent é um site que desenvolvi em conjunto com meus professores, a partir de um template no Figma, com o objetivo de praticar e consolidar meus conhecimentos em HTML e CSS.</p>
+    </li>
+    <li>
+        <p><a href="https://github.com/GoBrazill/project-nexcent">Angular Homes App</a> - Projeto que construí seguindo um tutorial do canal oficial do Angular no YouTube.</p>
     </li>
 </ul>
 
