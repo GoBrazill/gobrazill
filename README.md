@@ -2,7 +2,7 @@
 ---
 
 <h2>Sobre mim</h2>
-<p>Sou um estudante no curso técnico em desenvolvimento de sistemas no <a href="https://www.sp.senai.br/unidade/suicobrasileira/" target="_blank">SENAI Suíço-Brasileira</a>,  onde estudo front-end, back-end, banco de dados e IoT. Atualmente estou focando em desenvolvimento web, aprendendo tecnologias como <img src="./assets/icons/react.svg" alt="Ícone de um átomo"> <img src="./assets/icons/angular.svg" alt="Ícone com a letra A formando um escudo"> no front-end e <img src="./assets/icons/spring-boot.svg" alt="Ícone de um botão de ligar/desligar"> <img src="./assets/icons/my-sql.svg" alt="Ícone de um golfinho escrito MySQL ao lado"> no back-end.</p>
+<p>Sou um estudante no curso técnico em desenvolvimento de sistemas no <a href="https://www.sp.senai.br/unidade/suicobrasileira/" target="_blank">SENAI Suíço-Brasileira</a>,  onde estudo front-end, back-end, banco de dados e IoT. Atualmente estou focando em desenvolvimento web, aprendendo tecnologias como React e Angular no front-end e Spring Boot no back-end.</p>
 
 <h2>Projetos em destaque</h2>
 <ul>
@@ -23,6 +23,40 @@
         <p><a href="https://github.com/GoBrazill/project-nexcent">Angular Homes App</a> - Projeto que construí seguindo um tutorial do canal oficial do Angular no YouTube.</p>
     </li>
 </ul>
+
+<h2>Estudando no momento</h2>
+
+![Typescript logo](./assets/icons/typescript-logo.svg)
+![Angular logo](./assets/icons/angular-logo.svg)
+
+<h2>Ferramentas que utilizo</h2>
+
+<h3>Front-end</h3>
+
+![HTML logo](./assets/icons/html-logo.svg)
+![CSS logo](./assets/icons/css-logo.svg)
+![SASS logo](./assets/icons/sass-logo.svg)
+![Javascript logo](./assets/icons/javascript-logo.svg)
+![React logo](./assets/icons/react-logo.svg)
+
+<h3>Design</h3>
+
+![Figma logo](./assets/icons/figma-logo.svg)
+
+<h3>Back-end</h3>
+
+![Java logo](./assets/icons/java-logo.svg)
+![Spring logo](./assets/icons/spring-boot-logo.svg)
+
+<h3>Banco de dados</h3>
+
+![MySQL logo](./assets/icons/my-sql-logo.svg)
+
+<h3>Versionamento</h3>
+
+![Git logo](./assets/icons/git-logo.svg)
+
+
 
 <h2>Contato</h2>
 <ul>
