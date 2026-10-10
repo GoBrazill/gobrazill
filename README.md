@@ -2,7 +2,7 @@
 ---
 
 <h2>Sobre mim</h2>
-<p>Sou um estudante no curso técnico em desenvolvimento de sistemas no <a href="https://www.sp.senai.br/unidade/suicobrasileira/" target="_blank">SENAI Suíço-Brasileira</a>,  onde estudo front-end, back-end, banco de dados e IoT. Atualmente estou focando em desenvolvimento web, aprendendo tecnologias como React e Angular no front-end e Spring Boot no back-end.</p>
+<p>Sou um estudante no curso técnico em desenvolvimento de sistemas no <a href="https://www.sp.senai.br/unidade/suicobrasileira/">SENAI Suíço-Brasileira</a>,  onde estudo front-end, back-end, banco de dados e IoT. Atualmente estou focando em desenvolvimento web, aprendendo tecnologias como React e Angular no front-end e Spring Boot no back-end.</p>
 
 <h2>Projetos em destaque</h2>
 <ul>
