@@ -61,11 +61,11 @@
 <h2>Contato</h2>
 <ul>
     <li>
-        <img src="./assets/icons/linkedin.svg" alt="Ícone com as letras I e N ao lado uma da outra">
+        <img src="./assets/icons/linkedin-logo.svg" alt="Ícone com as letras I e N ao lado uma da outra">
         <a href="https://www.linkedin.com/in/vinicius-a-silva" target="_blank">Vinicius Silva</a>
     </li>
     <li>
-        <img src="./assets/icons/gmail.svg" width="16px" height="16px" alt="Ícone de uma carta formando a letra M">
+        <img src="./assets/icons/gmail-logo.svg" width="16px" height="16px" alt="Ícone de uma carta formando a letra M">
         <a href="mailto:vinicius.daraujos26@gmail.com">vinicius.daraujos26@gmail.com</a>
     </li>
 </ul>
