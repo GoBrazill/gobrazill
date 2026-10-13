@@ -26,8 +26,9 @@
 
 <h2>Estudando no momento</h2>
 
-![Typescript logo](./assets/icons/typescript-logo.svg)
 ![Angular logo](./assets/icons/angular-logo.svg)
+![Typescript logo](./assets/icons/typescript-logo.svg)
+![SASS logo](./assets/icons/sass-logo.svg)
 
 <h2>Ferramentas que utilizo</h2>
 
@@ -35,9 +36,9 @@
 
 ![HTML logo](./assets/icons/html-logo.svg)
 ![CSS logo](./assets/icons/css-logo.svg)
-![SASS logo](./assets/icons/sass-logo.svg)
 ![Javascript logo](./assets/icons/javascript-logo.svg)
 ![React logo](./assets/icons/react-logo.svg)
+![Styled Components logo](./assets/icons/styled-components-logo.svg)
 
 <h3>Design</h3>
 
